@@ -1,0 +1,110 @@
+body {
+ /* min-height: 2000px;*/
+  background-image:url('../img/background.jpg');
+  background-attachment: fixed;
+  background-size: auto;
+  background-position: 50% 0%;
+  background-repeat: no-repeat;
+}
+
+a{
+	color:#8f705e!important;
+}
+.navbar-static-top {
+ /* margin-bottom: 19px;*/
+}
+
+.menu-block{
+	padding:20px !important;
+}
+.logo{
+	height:100px;
+}
+.jumbotron{
+	    /*background: rgba(255,255,255,.7);*/
+	background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 5px 5px 5px 5px;
+    border: 0px solid rgba(212, 211, 211, 1);
+    background-image: url('../img/apple_box.png');
+    background-repeat: repeat-x;
+    background-position: 0 0;
+	margin-bottom: 20px!important;
+}
+.body-block{
+	/*background: rgba(255,255,255,.8)!important;*/
+}
+.footer-block{
+	padding:5px !important;
+}
+.footer-block .row{
+margin:0px;	
+}
+.border{
+	border:1px solid #000000;
+}
+.pad-left-left{
+	padding-left:10px !important;
+}
+.pad-left-right{
+	padding-right:5px !important;
+}
+.pad-right-left{
+	padding-left:5px !important;
+}
+.pad-right-right{
+	padding-right:10px !important;
+}
+.padding-top,.padding-bottom{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.padding-top-20,.padding-bottom-20{
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.min-height{
+	min-height: 102px;
+}
+.home{
+	padding: 4px !important;
+}
+.home .row{
+	background:#ffffff;
+	margin: 0px !important;
+}
+.min-height-222{
+	min-height: 222px;
+}
+.menu-container{
+	/*padding:0px;*/
+}
+.navbar-toggle {
+    background-color: #c488af!important;
+}
+.navbar-toggle .icon-bar {
+	 background-color: #ffffff!important;
+}
+.navbar-nav > li.active{
+   color:#577731!important;
+}
+.navbar-nav > li >a:focus,.navbar-nav > li >a:hover{
+   background-color:transparent !important;
+    color:#577731!important;
+}
+.cart-nav{
+	padding-top: 6px!important;
+    padding-bottom: 6px!important;
+    padding-left: 10px!important;
+    padding-right: 10px!important;
+    background: #c488af;
+    color: #fff !important;
+}
+.navbar-nav > li >a.cart-nav:focus,.navbar-nav > li >a.cart-nav:hover{
+	background-color:#c488af !important;
+	padding-top: 6px!important;
+    padding-bottom: 6px!important;
+    padding-left: 10px!important;
+    padding-right: 10px!important;
+    background: #c488af;
+    color: #fff !important;
+}

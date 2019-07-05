@@ -1,0 +1,94 @@
+/*Google Fonts*/
+/*@import url("http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,300,700,800");*/
+
+/* Web Font styles --------------------------------------------------------*/
+@font-face {
+    font-family: 'robotolight';
+    src: url('../fonts/roboto-light.eot');
+    src: url('../fonts/roboto-light.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/roboto-light.woff2') format('woff2'),
+         url('../fonts/roboto-light.woff') format('woff'),
+         url('../fonts/roboto-light.ttf') format('truetype'),
+         url('../fonts/roboto-light.svg#robotolight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'robotomedium';
+    src: url('../fonts/roboto-medium.eot');
+    src: url('../fonts/roboto-medium.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/roboto-medium.woff2') format('woff2'),
+         url('../fonts/roboto-medium.woff') format('woff'),
+         url('../fonts/roboto-medium.ttf') format('truetype'),
+         url('../fonts/roboto-medium.svg#robotomedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'robotoregular';
+    src: url('../fonts/roboto-regular.eot');
+    src: url('../fonts/roboto-regular.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/roboto-regular.woff2') format('woff2'),
+         url('../fonts/roboto-regular.woff') format('woff'),
+         url('../fonts/roboto-regular.ttf') format('truetype'),
+         url('../fonts/roboto-regular.svg#robotoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'robotothin';
+    src: url('../fonts/roboto-thin.eot');
+    src: url('../fonts/roboto-thin.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/roboto-thin.woff2') format('woff2'),
+         url('../fonts/roboto-thin.woff') format('woff'),
+         url('../fonts/roboto-thin.ttf') format('truetype'),
+         url('../fonts/roboto-thin.svg#robotothin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'botonroman';
+    src: url('../fonts/boton.eot');
+    src: url('../fonts/boton.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/boton.woff') format('woff'),
+         url('../fonts/boton.ttf') format('truetype'),
+         url('../fonts/boton.svg#botonroman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'botonbold';
+    src: url('../fonts/boton-bold.eot');
+    src: url('../fonts/boton-bold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/boton-bold.woff') format('woff'),
+         url('../fonts/boton-bold.ttf') format('truetype'),
+         url('../fonts/boton-bold.svg#botonbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'boton-lightlight';
+    src: url('../fonts/boton-light.eot');
+    src: url('../fonts/boton-light.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/boton-light.woff') format('woff'),
+         url('../fonts/boton-light.ttf') format('truetype'),
+         url('../fonts/boton-light.svg#boton-lightlight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'Boton-Medium';
+	src: url('../fonts/Boton-Medium.eot?') format('eot'), 
+	     url('../fonts/Boton-Medium.woff') format('woff'), 
+	     url('../fonts/Boton-Medium.ttf')  format('truetype'),
+	     url('../fonts/Boton-Medium.svg#Boton-Medium') format('svg');
+	font-weight: normal;
+    font-style: normal;
+}
